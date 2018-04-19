@@ -1,0 +1,19 @@
+site_name: CAP 参考手册
+pages:
+  - Home: index.md
+  - About: about.md
+# Copyright
+copyright: 'Copyright &copy; 2017 - 2018 Qipeng Bai'
+
+theme: 
+    name: 'material'
+    language: 'en'
+    palette:
+        primary: 'indigo'
+        accent: 'indigo'
+extra:
+    search:
+        language: 'en, zh'
+    social:
+      - type: 'github'
+        link: 'https://github.com/bqpseismology'
